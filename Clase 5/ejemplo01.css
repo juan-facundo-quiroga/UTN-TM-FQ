@@ -1,0 +1,35 @@
+.caja{
+background-color: yellow;
+    width: 300px;
+height: 300px;
+margin: 100px;
+box-shadow: 20px 30px 10px black;
+/*eje de las X--eje Y--desenfoue--color*/
+}
+
+.caja2{
+    width: 300px;
+height: 300px;
+border: 3px solid black;
+padding: 10px;
+/*border-radius: 15px*/
+border-radius: box-shadow: 10px 10px 5px 13px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 13px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 13px rgba(0,0,0,0.75);;
+}
+
+
+.texto{
+background-color: yellow;
+column-count: 2;
+column-gap: 60px;
+
+}
+
+.texto p{
+margin: 0;
+
+}
+
+
+
