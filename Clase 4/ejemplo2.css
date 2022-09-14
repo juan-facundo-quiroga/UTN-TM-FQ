@@ -1,0 +1,54 @@
+h2{
+    color: blue;/*color de la tipo*/
+}
+
+
+h1{
+    color: red;
+background-color: yellow;/*cloro de fondo*/ 
+text-align: center;/*el texto queda centrado*/ 
+font-family: Arial;
+}
+p{
+    color: green;/*Cambia el color al texto*/
+}
+.destacados{
+        color: orange;
+    font-size: 22px;/*tamaño de la fuente*/
+    font-size: italic;/*italica*/
+    font-weight: bold;/*negrita*/
+}
+
+
+
+
+
+
+#rojo{
+width: 300px;/*ancho*/
+height: 400px;/*alto*/
+background-color: lightcoral;
+text-align: center;/*centrar el texto*/
+margin-left: 50px;/*externo*/
+margin-bottom: 50px;
+border: 5px solid black;/*grosor tipo color*/
+box-sizing: border-box;
+
+
+}
+#celeste{
+    width: 300px;
+    height: 400px;
+    background-color: lightblue;
+padding: 20px;/*Separa el contendio del borde de la caja azul(margen interno)*/
+box-sizing: border-box;/*va de la mano con el padding*/
+border-right: 3px dashed #ff0000;
+
+
+}
+/*Esto es un comentrio de css*/
+
+/*
+regla de css 
+h2 tipo de selector de etiqueta 
+y adentro van ls distintas propiedades con sus valores */
