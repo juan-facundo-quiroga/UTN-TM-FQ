@@ -1,0 +1,31 @@
+.contenedor{ 
+    background-color: rgb(169, 174, 178);
+    width: 60%;
+margin: 0 auto; /*ariba y abajo nolos modifico los margenes----- de derecha a izquierda lo modifica automatico*/
+height: 600px;
+}
+
+
+
+.verde{
+background-color: lightgreen;
+width: 90%;
+margin: 0 auto 20px;/* arriba--- laterales----abajo */
+height: 150px;
+}
+
+
+.celeste{
+    background-color: rgb(144, 174, 178);
+    width: 90%;
+    margin: 0 auto 20px;/* arriba--- laterales----abajo */
+    height: 150px;
+    }
+
+    
+.amarillo{
+    background-color: rgb(144, 233, 238);
+    width: 90%;
+    margin: 0 auto;/* arriba--- laterales----abajo */
+    height: 150px;
+    }

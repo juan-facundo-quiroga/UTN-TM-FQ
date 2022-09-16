@@ -1,0 +1,40 @@
+.contenedor{ 
+    background-color: rgb(169, 174, 178);
+    width: 60%;
+margin: 0 auto; /*ariba y abajo nolos modifico los margenes----- de derecha a izquierda lo modifica automatico*/
+height: 600px;
+position: relative;
+}
+
+
+
+.verde{
+background-color: lightgreen;
+width: 90%;
+margin: 0 auto 20px;/* arriba--- laterales----abajo */
+height: 150px;
+position: absolute;
+top: 0;
+left: 0;
+/*el posicionamiento absoluto se mide con respecto a un elemento que tenga posicionamiento relativo por consiguiente
+ el elemento con posicionamiento relativo por nacimiento es la teiqueta <body>*/
+
+
+
+}
+
+
+.celeste{
+    background-color: rgb(144, 174, 178);
+    width: 90%;
+    margin: 0 auto 20px;/* arriba--- laterales----abajo */
+    height: 150px;
+    }
+
+    
+.amarillo{
+    background-color: rgb(144, 233, 238);
+    width: 90%;
+    margin: 0 auto;/* arriba--- laterales----abajo */
+    height: 150px;
+    }
