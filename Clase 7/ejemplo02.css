@@ -1,0 +1,37 @@
+.caja{
+width: 400px;
+height: 250px;
+background-color: aqua;
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 100px;
+transition: all 0.5s ease;
+cursor: pointer;
+
+
+}
+
+
+.caja:hover{
+background-color: blue;
+color: white;
+}
+
+img{
+filter: grayscale(100%);
+transition: all 1.3s ease;
+opacity: 0.5;
+
+}
+
+img:hover{
+filter: grayscale(0);
+opacity: 1;
+
+
+}
+
+
+
